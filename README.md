@@ -96,7 +96,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Go to: Agent Panel → Users → Add New<br>
 - Example users: Karen, Ken<br><br>
 <p>
-
+<img width="1916" height="694" alt="image" src="https://github.com/user-attachments/assets/d4cc3b6d-6340-4b74-a029-1dabd02aded1" />
+<img width="1292" height="790" alt="image" src="https://github.com/user-attachments/assets/18fb1838-48a0-4a53-a5ec-00beaad6f2cd" />
+<img width="1916" height="652" alt="image" src="https://github.com/user-attachments/assets/691cdaca-1cea-48df-8e57-e7b00a02eb5b" />
+<img width="1898" height="632" alt="image" src="https://github.com/user-attachments/assets/00eeb97f-2176-49a0-8891-466b3ece4831" />
 </p>
 
 <h3>9. Configure SLA Plans</h3>
@@ -105,7 +108,23 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Sev-A: 1 hour grace period, 24/7<br>
   - Sev-B: 4 hour grace period, 24/7<br>
   - Sev-C: 8 hour grace period, Business Hours<br><br>
+<p>
+<img width="1918" height="612" alt="image" src="https://github.com/user-attachments/assets/b6aea0ed-10f1-4b6d-911e-311eda7b2619" />
+<img width="1916" height="1044" alt="image" src="https://github.com/user-attachments/assets/f7ae08e2-4602-486b-b31c-66ef7a01af98" />
+<img width="1902" height="524" alt="image" src="https://github.com/user-attachments/assets/714b8e41-c92c-42e9-b04a-01beb9b998f7" />
+<img width="1900" height="526" alt="image" src="https://github.com/user-attachments/assets/35da3b62-d246-4974-931a-81985fe2de2b" />
+<img width="1916" height="848" alt="image" src="https://github.com/user-attachments/assets/d0554bb8-0082-4d23-af1a-454d5707d2fd" />
+</p>
 
 <h3>10. Configure Help Topics</h3>
 - Go to: Admin Panel → Manage → Help Topics<br>
 - Example topics: Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, Other<br><br>
+<p>
+<img width="1918" height="838" alt="image" src="https://github.com/user-attachments/assets/37b8edcb-fe0a-4e7f-9000-2e4027215521" />
+<img width="1908" height="528" alt="image" src="https://github.com/user-attachments/assets/ff1360ac-91a4-40ba-9000-f100f4ceb462" />
+<img width="1218" height="536" alt="image" src="https://github.com/user-attachments/assets/18395c74-328e-4a91-ab40-8d5d2812eb3b" />
+<img width="1112" height="536" alt="image" src="https://github.com/user-attachments/assets/122d4dbb-14bf-4166-958b-67479aa0f521" />
+<img width="1038" height="538" alt="image" src="https://github.com/user-attachments/assets/694188ae-514d-4a3f-a62a-ae34cdb5bff9" />
+<img width="1066" height="532" alt="image" src="https://github.com/user-attachments/assets/a27c4a95-be44-4ca7-9045-2cccab14d231" />
+<img width="1912" height="1224" alt="image" src="https://github.com/user-attachments/assets/72686173-e505-4109-9071-72f289e85d8c" />
+</p>
